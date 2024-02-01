@@ -1,0 +1,7 @@
+POST https://enroll-course-thirdparty.vercel.app/api/courses/enroll
+Content-Type: application/json
+
+{
+        "curso": "Curso 1",
+        "email": "test@test.com"
+ }

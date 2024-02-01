@@ -1,0 +1,13 @@
+POST http://localhost:3001/inscripcion
+Content-Type: application/json
+
+[
+  {
+    "curso": "NODEJS",
+    "nombre": "Luke",
+    "apellido": "Nolan",
+    "email": "luke.nolan@dh.com",
+    "dni": 26123123,
+    "telefono": 1134151212
+  }
+]
