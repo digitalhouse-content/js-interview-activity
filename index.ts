@@ -7,7 +7,7 @@ import { configDotenv } from 'dotenv';
 configDotenv();
 
 // mongo connection url
-const mongoURI = "mongodb+srv://pocinterviewuser:dUk7GcYvqHVWt2EX@poc-mongo-cluster.umch7tw.mongodb.net/?retryWrites=true&w=majority";
+const mongoURI = "mongodb+srv://pocinterviewuser:3yNa9NWR1YK1EYz4@poc-mongo-cluster.umch7tw.mongodb.net/?retryWrites=true&w=majority";
 
 // setup mongo client
 const client = new MongoClient(mongoURI, {

@@ -15,7 +15,7 @@ Ver [OBJETIVO.md](OBJETIVO.md) para más detalles.
 ## Uso
 
 1. Iniciar el servidor usando `npm run dev`.
-2. Acceder a la API en `http://localhost:3000`.
+2. Acceder a la API en `http://localhost:3001`.
 
 ## Estructura de Archivos
 
